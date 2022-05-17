@@ -9,10 +9,10 @@ The purpose of this analysis is to dive into JavaScript and how it applies to da
 To use this webpage, a user needs to enter values into the search filter boxes at the top. Sample words are already nested into the "Filter Search" boxes so that users have an idea of the formatting of their filter searches. The user can input values into any number of the filter boxes that they see fit - although using even just one will help narrow down the search. After entering a value into the box(es), the user will hit enter. The results will display according to the filters that were entered. Please see the images below for examples of how this webpage's filter search process works. 
 
 This image below shows what the webpage looks like prior to filtering. You can see the sample word examples, and how the results follow no pattern yet.
-! [Prior to search](static\images\prior_to_search.png)
+![Prior to search](./static/images/prior_to_search.png)
 
 The image below shows what the webpage looks like after filtering for the city of El Cajon. Only data regarding UFO sightings in El Cajon are displayed. 
-! [After search](static\images\post_search.png)
+![After search](./static/images/post_search.png)
 
 ## Summary
 
